@@ -1,5 +1,5 @@
 ### FaceShifter
-My implementation of https://arxiv.org/abs/1912.13457
+My implementation of https://arxiv.org/abs/1912.13457 + simple flask web app
 
 ![Farmers Market Finder Demo](gen_images/1_run/latest40.jpg)
 
