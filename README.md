@@ -6,4 +6,4 @@ My implementation of https://arxiv.org/abs/1912.13457
 Rows from top to bottom: face reference, background reference, result
 
 Trained for 48 hours on RTX 2080 Ti.
-Longer training would probably improove the results.
+Longer training would probably improve the results.
